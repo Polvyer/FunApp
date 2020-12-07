@@ -6,4 +6,4 @@ To run this app, you must:
 
 	2. Run ServiceWithPCExampleService
   
-  3. Run ServiceWithPCExampleClient
+  	3. Run ServiceWithPCExampleClient
