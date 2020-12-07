@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\raw_surf.mp3.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\raw\\surf.mp3"
+    },
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\raw_young.mp3.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\raw\\young.mp3"
+    },
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\raw_monica.mp3.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\raw\\monica.mp3"
+    },
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_squirtle.jpg.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-xhdpi\\squirtle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_eevee.png.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-xhdpi\\eevee.png"
+    },
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pikachu.jpg.flat",
+        "source": "C:\\Users\\w.ocampo\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-xhdpi\\pikachu.jpg"
+    }
+]
